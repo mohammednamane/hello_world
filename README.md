@@ -2,4 +2,5 @@
 Test
 Bonjour tous le monde
  
- je crée ce commit en tant que test afin de comprendre le fonctionnement de GitHuB 
+j'ai crée ce commit  en tant que commit de test afin de  comprendre le fonctionnement.
+ 
